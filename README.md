@@ -1,6 +1,6 @@
 # younixShop
 
-![Logo](./Assets/logo1.jpeg)
+![Logo](./Assets/logo1Shrinked.jpg)
 
 ### Brief Description
 
