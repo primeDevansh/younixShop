@@ -1,10 +1,12 @@
 # younixShop
 
+![Logo](./Assets/logo1.jpeg)
+
 ### Brief Description
 
 **younixShop** is a C++ program. It is an attempt to simulate an inventory management software using only C++ code. At its core, **younixShop** primarily uses C++ file handling operations to carry out all types of transactions.
 
-> This project was tested and deployed orginally on `TurboC++`. In the upcoming time, I will make it platform-independent.
+> This project was orginally deployed and tested on `TurboC++`. A platform-independent code will be added soon.
 
 ### Detailed Description of the Functionality
 
@@ -23,8 +25,4 @@ Dedicated menus are present in the main menu which provides specific access to a
 
 ### Descitption of Code Snippets
 
-1. Classes Used
-
-+---+
-|   |
-+---+
+> To be added.
